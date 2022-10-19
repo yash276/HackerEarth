@@ -1,1 +1,1 @@
-# HackEarth
+# HackerEarth
